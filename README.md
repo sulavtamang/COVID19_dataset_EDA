@@ -17,8 +17,8 @@ To run this project locally, follow these steps:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/sulavtamang/Ultimate_Data_Science_Projects.git
-cd Ultimate_Data_Science_Projects/COVID19_data_EDA
+git clone https://github.com/sulavtamang/COVID19_data_EDA.git
+cd COVID19_data_EDA
 ```
 
 ### **2️⃣ Create a Virtual Environment**
